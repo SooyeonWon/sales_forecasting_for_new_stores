@@ -1,2 +1,4 @@
-# sales_forecasting_for_new_stores
+# Product Sales Forecasting in Retail Industry
 Segmentation and Clustering Analysis
+
+#### by Sooyeon Won
