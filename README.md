@@ -42,10 +42,10 @@ This project was the Capstone project of Udacity Nanodegree Program. Therefore, 
 [K-Centroids Diagnostics Tool - Alteryx](https://help.alteryx.com/current/designer/k-centroids-diagnostics-tool)<br>
 [K-Means Clustering in Python: A Practical Guide](https://realpython.com/k-means-clustering-python/)<br>
 [Kmeans - Python sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)<br>
-[ETS models - Statsmodel](https://www.statsmodels.org/stable/examples/notebooks/generated/ets.html?highlight=get_prediction#)
-[SARIMAX - statsmodel](https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html)
-[Time Series Forecasting Performance Measures With Python](https://machinelearningmastery.com/time-series-forecasting-performance-measures-with-python/)
-[Seasonal ARIMA with Python](https://www.seanabu.com/2016/03/22/time-series-seasonal-ARIMA-model-in-python/)
-[K-Centroids Diagnostics - Alteryx Community](https://community.alteryx.com/t5/Alteryx-Designer-Knowledge-Base/Tool-Mastery-K-Centroids-Diagnostics/ta-p/302311)
-[K-Centroids Cluster Analysis Tool - Alteryx](https://help.alteryx.com/current/designer/k-centroids-cluster-analysis-tool)
-[ARIMA Tool - Alteryx](https://help.alteryx.com/current/designer/arima-tool)
+[ETS models - Statsmodel](https://www.statsmodels.org/stable/examples/notebooks/generated/ets.html?highlight=get_prediction#)<br>
+[SARIMAX - statsmodel](https://www.statsmodels.org/dev/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html)<br>
+[Time Series Forecasting Performance Measures With Python](https://machinelearningmastery.com/time-series-forecasting-performance-measures-with-python/)<br>
+[Seasonal ARIMA with Python](https://www.seanabu.com/2016/03/22/time-series-seasonal-ARIMA-model-in-python/)<br>
+[K-Centroids Diagnostics - Alteryx Community](https://community.alteryx.com/t5/Alteryx-Designer-Knowledge-Base/Tool-Mastery-K-Centroids-Diagnostics/ta-p/302311)<br>
+[K-Centroids Cluster Analysis Tool - Alteryx](https://help.alteryx.com/current/designer/k-centroids-cluster-analysis-tool)<br>
+[ARIMA Tool - Alteryx](https://help.alteryx.com/current/designer/arima-tool)<br>
