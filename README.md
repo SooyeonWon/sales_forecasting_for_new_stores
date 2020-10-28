@@ -1,5 +1,5 @@
 # Product Sales Forecasting in Retail Industry
-Segmentation and Clustering Analysis / Project: Predictive Analytics Capstone
+Project: Predictive Analytics Capstone
 
 
 #### by Sooyeon Won
